@@ -1,4 +1,4 @@
 # GitHub-is-Awesome
 Second repository
 
-This line was added in Eclipse
+This line was added in Eclipse.
